@@ -1,0 +1,49 @@
+h1{
+	background-image: url("https://neu-cdn-amnesty-org-prd.azureedge.net/cache/0/9/8/8/c/9/0988c996027626f8f13c236d3bc2b741f8b068ba.jpg");
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	height: 300px;
+	background-position: center;
+	background-repeat: no-repeat;
+  	background-size: cover;
+  	text-align: center;
+	padding-top: 200px;
+	font-weight: bold;
+	font-size: 75px;
+	font-family: "Indie Flower", cursive;
+	color: rgb(249, 250, 252);
+
+
+}
+
+body{
+	background-image: linear-gradient(white,#c7ccc7);
+
+}
+
+div{
+	border: solid black 4px; 
+	text-align: justify;
+	border-radius: 5px;
+	width: 60%;
+	margin: 0 auto;
+	padding: 10%;
+}
+h2{
+
+	color:#606360;
+	font-size: 30px;
+}
+
+p{
+	font-family: 'Vollkorn', serif;
+	font-size: 25px;
+	
+}
+
+a{
+	margin-bottom: 100px;
+	margin-left: 550px;
+	color: black;
+	font-size: 30px;
+	text-align: center;
+}

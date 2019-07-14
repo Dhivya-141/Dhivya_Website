@@ -1,0 +1,65 @@
+h1{
+	background-image: url("https://assets3.thrillist.com/v1/image/2769014/size/gn-gift_guide_variable_c.jpg");
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	height: 300px;
+	background-position: center;
+	background-repeat: no-repeat;
+  	background-size: cover;
+  	/*filter: blur(1px);*/
+	text-align: center;
+	padding-top: 200px;
+	font-weight: bold;
+	font-size: 75px;
+	font-family: "Indie Flower", cursive;
+	color: rgb(249, 250, 252);
+
+}
+
+h2{
+	margin-left: 20px;
+	margin-right: 20px;
+	color:#b70c0c;
+	font-size: 30px;
+}
+body{
+	  background-image: linear-gradient( rgba(255,0,0,0), rgba(255,0,0,1));
+
+}
+
+p{
+	margin-left: 50px;
+	margin-right: 100px;
+	text-align: justify;
+
+	/*font-family: "Courgette", cursive;*/
+	font-size: 25px;
+	color: #5b1a1a;
+	padding-bottom: 20px;
+}
+
+p+div/*div: nth-of-type(1)*/{
+
+	text-align: center;
+	margin: 0 auto;
+	border: solid 3px #c3c9c3;
+	width:30%;
+	padding: 30px;
+}
+
+a{
+	
+	/*font-family: "Pacifico";*/
+	color: white;
+	font-size: 30px;
+	line-height: 2;
+}
+
+
+hr{
+
+    border: 0;
+    color: crimson red;
+    height: 3px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+
+}
